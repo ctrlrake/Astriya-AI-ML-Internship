@@ -1,5 +1,5 @@
 # Astriya-AI-ML-Internship
-Learnt from Astriya’s R&amp;D division focusing on AI and Computer Vision, implementing image processing techniques (grayscale histogram, Gaussian/median filters, HoG + SVM, Canny edge detection) and developed prototype detection models.
+This repository showcases all work completed during my 60-day internship at Astriya’s AI & Computer Vision R&D division. Under direct technical mentorship, I implemented a range of image processing techniques—grayscale histograms, Gaussian/median filters, Canny edge detection, HOG feature extraction, SVM classifiers—and developed early-stage detection models. Every script here reflects the concepts explored and the skills gained throughout the internship.
 
 ## Grayscale Image Histogram 
 
